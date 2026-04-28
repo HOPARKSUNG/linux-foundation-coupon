@@ -72,6 +72,20 @@ It has LFCS, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, and KCA certification exams.
 
 Use code **DCUBE30** at [Kubestronaut to Golden Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) to get 30% discount on the bundle.
 
+## FinOps Certification Discount [Limited Offer]
+
+If you looking for Linux Foudnation FinOps certificatication, make use of the following coupon.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES_20** at [learn.finops.org](https://learn.finops.org/)
+
+You can use this coupon for the following certification.
+
+- FinOps Certified Practitioner
+- FinOps Certified Engineer
+- FinOps Certified FOCUS Analyst
+- FinOps Certified: FinOps for AI
+
 ## Up to 35% OFF Linux Foundation Site-Wide Discount
 
 Get a 20% discount on all the Linux Foundation certifications, training, Skillcreds, and IT Professional programs
@@ -393,13 +407,6 @@ For individual certifications, get flat 40% using the following coupon.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **HOLIDAY25CT** at [kube.promo/devops](https://kube.promo/devops)
-
-## FinOps Certification Discount [Expired]
-
-If you looking for Linux Foudnation FinOps certificatication, make use of the following coupon.
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES12** at [learn.finops.org](https://learn.finops.org/)
 
 ## [UpTo 55% OFF] Linux Foundation Flash Sale (Expired)
 
